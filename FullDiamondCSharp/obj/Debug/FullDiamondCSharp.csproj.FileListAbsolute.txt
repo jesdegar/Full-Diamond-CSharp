@@ -1,0 +1,6 @@
+D:\Me\Repo\Full-Diamond-CSharp\FullDiamondCSharp\bin\Debug\FullDiamondCSharp.exe.config
+D:\Me\Repo\Full-Diamond-CSharp\FullDiamondCSharp\bin\Debug\FullDiamondCSharp.exe
+D:\Me\Repo\Full-Diamond-CSharp\FullDiamondCSharp\bin\Debug\FullDiamondCSharp.pdb
+D:\Me\Repo\Full-Diamond-CSharp\FullDiamondCSharp\obj\Debug\FullDiamondCSharp.csprojResolveAssemblyReference.cache
+D:\Me\Repo\Full-Diamond-CSharp\FullDiamondCSharp\obj\Debug\FullDiamondCSharp.exe
+D:\Me\Repo\Full-Diamond-CSharp\FullDiamondCSharp\obj\Debug\FullDiamondCSharp.pdb
