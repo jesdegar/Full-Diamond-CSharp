@@ -10,12 +10,11 @@ namespace FullDiamondCSharp
     {
         static void Main(string[] args)
         {                       
-            FullDiamond(15, '*');
+            FullDiamond(10, '*');
             Console.ReadLine();
         }
         static void FullDiamond(int length, char chr)
-        {
-            if (IsEven(length)) return;
+        {            
             char space = ' ';            
             if (length >= 3)
             {
@@ -29,12 +28,5 @@ namespace FullDiamondCSharp
                 }
             }
         }        
-        static bool IsEven(int value) // method to check odd or even number return with true or false
-        {
-            if (value % 2 == 0) return true;            
-            return false;
-        }
-        
-        
     }
 }
